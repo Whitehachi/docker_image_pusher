@@ -3,5 +3,6 @@ tomcat
 jellyfin/jellyfin:latest
 linuxserver/sonarr:latest
 linuxserver/jackett:latest
+mlikiowa/napcat-docker:latest
 estrellaxd/auto_bangumi:latest
 dzhuang/tinymediamanager:latest
