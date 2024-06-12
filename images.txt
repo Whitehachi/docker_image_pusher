@@ -1,3 +1,4 @@
+nginx
 jellyfin/jellyfin:latest
 linuxserver/sonarr:latest
 linuxserver/jackett:latest
