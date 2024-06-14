@@ -1,5 +1,6 @@
 nginx
 tomcat
+xhofe/alist:latest
 jellyfin/jellyfin:latest
 linuxserver/sonarr:latest
 linuxserver/jackett:latest
